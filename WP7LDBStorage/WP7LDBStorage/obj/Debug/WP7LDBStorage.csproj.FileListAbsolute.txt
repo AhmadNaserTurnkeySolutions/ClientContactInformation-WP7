@@ -1,0 +1,44 @@
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\ApplicationIcon.png
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\Background.png
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\Images\appbar.cancel.rest.png
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\Images\appbar.check.rest.png
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\Images\appbar.share.rest.png
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\WP7LDBStorage.dll
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\WP7LDBStorage.pdb
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\AppManifest.xaml
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\WP7LDBStorage.xap
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\obj\Debug\App.g.i.cs
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\obj\Debug\About.g.i.cs
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\obj\Debug\MainPage.g.i.cs
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\obj\Debug\Settings.g.i.cs
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\obj\Debug\WP7LDBStorage.g.resources
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\obj\Debug\WP7LDBStorage.dll
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\obj\Debug\WP7LDBStorage.pdb
+C:\Users\Binary Wasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\obj\Debug\XapCacheFile.xml
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\ApplicationIcon.png
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\Background.png
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\Images\appbar.cancel.rest.png
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\Images\appbar.check.rest.png
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\Images\appbar.share.rest.png
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\WP7LDBStorage.dll
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\WP7LDBStorage.pdb
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\AppManifest.xaml
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\WP7LDBStorage.xap
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\PeriodicTaskAgentBW.dll
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\PeriodicTaskAgentBW.pdb
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\obj\Debug\App.g.i.cs
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\obj\Debug\About.g.i.cs
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\obj\Debug\MainPage.g.i.cs
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\obj\Debug\Settings.g.i.cs
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\obj\Debug\WP7LDBStorage.g.resources
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\obj\Debug\WP7LDBStorage.dll
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\obj\Debug\WP7LDBStorage.pdb
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\WP7LDBStorage\obj\Debug\XapCacheFile.xml

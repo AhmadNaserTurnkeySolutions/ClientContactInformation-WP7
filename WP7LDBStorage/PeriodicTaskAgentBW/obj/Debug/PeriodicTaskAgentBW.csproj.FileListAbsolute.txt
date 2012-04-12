@@ -1,0 +1,5 @@
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\PeriodicTaskAgentBW\Bin\Debug\PeriodicTaskAgentBW.dll
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\PeriodicTaskAgentBW\Bin\Debug\PeriodicTaskAgentBW.pdb
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\PeriodicTaskAgentBW\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\PeriodicTaskAgentBW\obj\Debug\PeriodicTaskAgentBW.dll
+C:\Users\BinaryWasteland\Documents\Visual Studio 2010\Projects\WP7LDBStorage\PeriodicTaskAgentBW\obj\Debug\PeriodicTaskAgentBW.pdb
